@@ -1,0 +1,6 @@
+name: Blaze
+version: ${project.version}
+authors: ["Brett Saunders", "Matty Jones"]
+api-version: 1.18
+website: "https://craftory.studio/"
+main: studio.crafttory.Blaze
